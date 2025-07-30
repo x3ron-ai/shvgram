@@ -1,0 +1,5 @@
+tdlib_data/
+.env
+libs/
+env/
+__pycache__
